@@ -22,7 +22,7 @@ This application allows users to play Rock Paper Scissors against the computer i
 Make sure Node.js is installed on your system
 Clone the Repository
 ```bash
-git clone https://github.com/adiConsultadd/Rock-Paper-Scissor-Game-Js-.git
+    git clone https://github.com/adiConsultadd/Rock-Paper-Scissor-Game-Js-.git
 ```
 
 Install the required package:
@@ -35,7 +35,7 @@ Install the required package:
 - Navigate to the directory containing the game file.
 - Run the game
 ```bash
-node index.js
+    node index.js
 ```
 - Follow the on-screen prompts to enter your choice (rock, paper, or scissors)
 - Play through all three rounds to determine the winner
