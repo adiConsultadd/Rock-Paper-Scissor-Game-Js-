@@ -18,8 +18,6 @@ This application allows users to play Rock Paper Scissors against the computer i
 - Node.js
 
 ## Installation
-
-Make sure Node.js is installed on your system
 Clone the Repository
 ```bash
     git clone https://github.com/adiConsultadd/Rock-Paper-Scissor-Game-Js-.git
